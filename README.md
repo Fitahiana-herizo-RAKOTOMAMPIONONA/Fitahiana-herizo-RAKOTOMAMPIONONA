@@ -59,11 +59,11 @@
 
 <div align="center">
   <a href="https://github.com/HerizoCarter/Chat-Traductor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HerizoCarter&repo=Chat-Traductor&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HerizoCarter&repo=Chat-Traductor&theme=dark" alt="Chat Traductor" />
   </a>
 
   <a href="https://github.com/HerizoCarter/Histories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HerizoCarter&repo=Histories&theme=dark" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HerizoCarter&repo=Histories&theme=dark" alt="Histories" />
   </a>
 </div>
 
