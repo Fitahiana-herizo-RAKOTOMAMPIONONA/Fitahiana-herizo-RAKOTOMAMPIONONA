@@ -45,31 +45,6 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
----
-
-## 📊 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HerizoCarter&theme=dark" alt="GitHub Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=HerizoCarter&show_icons=true&theme=dark&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerizoCarter&layout=compact&theme=dark" alt="Top Langages" />
-</div>
-
----
-
-## 🚀 Projets en vedette
-
-<div align="center">
-  <a href="https://github.com/HerizoCarter/Chat-Traductor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HerizoCarter&repo=Chat-Traductor&theme=dark" alt="Chat Traductor" />
-  </a>
-
-  <a href="https://github.com/HerizoCarter/Histories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=HerizoCarter&repo=Histories&theme=dark" alt="Histories" />
-  </a>
-</div>
 
 ---
 
