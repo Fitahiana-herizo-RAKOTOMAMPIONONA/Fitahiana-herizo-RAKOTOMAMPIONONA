@@ -3,13 +3,13 @@
   <img src="https://raw.githubusercontent.com/HerizoCarter/HerizoCarter/main/banner.png" alt="Herizo Carter Banner"/>
 </p>
 
-# 👋 Hello, je suis **Herizo Carter**  
+# 👋 Hello, je suis **Herizo FItahiana RAKOTOMAMPIONONA**  
 
 🎯 **Développeur Web | Mobile | Backend | Data Enthusiast**  
 💡 Passionné par le **développement web et mobile**, l'**analyse de données** et les **systèmes distribués**  
 📍 **Basé à Madagascar** | 🎓 **Étudiant en 3ème année à ISPM**  
 
-📬 Contactez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/herizo-rakotomampionona/)  
+📬 Contactez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fitahiana-herizo-rakotomampionona-586960277/)  
 
 ---
 
@@ -71,9 +71,9 @@
 
 ## 📫 Contact & Réseaux  
 
-📧 **Email :** herizo.carter@example.com  
-💼 **LinkedIn :** [Herizo Rakotomampionona](https://www.linkedin.com/in/herizo-rakotomampionona/)  
-🌍 **Portfolio :** [Bientôt disponible]  
+📧 **Email :** herizofitahiana10@gmail.com 
+💼 **LinkedIn :** [Herizo Rakotomampionona](https://www.linkedin.com/in/fitahiana-herizo-rakotomampionona-586960277/)  
+🌍 **Portfolio :** https://cv-portfolio-beta.vercel.app/
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HerizoCarter&color=green)  
 
