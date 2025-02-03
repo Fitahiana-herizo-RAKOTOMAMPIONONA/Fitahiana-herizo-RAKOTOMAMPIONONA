@@ -3,7 +3,7 @@
   <img src="./profile.png" alt="Herizo Carter Banner"/>
 </p>
 
-# 👋 Hello, je suis <br/>**Herizo <br/> FItahiana RAKOTOMAMPIONONA**
+# **Herizo FItahiana <br/> <span style="color:blue;font-family:'roboto'"> RAKOTOMAMPIONONA </span>**
 
 🎯 **Développeur Web | Mobile | Backend | Data Enthusiast**  
 💡 Passionné par le **développement web et mobile**, l'**analyse de données** et les **systèmes distribués**  
