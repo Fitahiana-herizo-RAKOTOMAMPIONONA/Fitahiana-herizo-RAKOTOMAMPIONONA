@@ -5,8 +5,8 @@
 
 # **Herizo FItahiana <br/> <span style="color:blue;font-family:'roboto'"> RAKOTOMAMPIONONA </span>**
 
-🎯 **Développeur Web | Mobile | Backend | Data Enthusiast**  
-💡 Passionné par le **développement web et mobile**, l'**analyse de données** et les **systèmes distribués**  
+🎯 **Développeur Mobile | Web | Backend **  
+💡 Passionné par le **développement web et mobile**, l'**analyse de sécurité d’application ** et les **systèmes distribués**  
 📍 **Basé à Madagascar** | 🎓 **Étudiant en 3ème année à ISPM**
 
 📬 Contactez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fitahiana-herizo-rakotomampionona-586960277/)
@@ -21,7 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
 ### 🔹 Frameworks & Librairies
 
@@ -43,7 +42,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 
 ---
@@ -52,7 +50,7 @@
 
 📧 **Email :** herizofitahiana10@gmail.com
 💼 **LinkedIn :** [Herizo Rakotomampionona](https://www.linkedin.com/in/fitahiana-herizo-rakotomampionona-586960277/)  
-🌍 **Portfolio :** https://cv-portfolio-beta.vercel.app/
+🌍 **Portfolio :** https://herizo.vercel.app
 
 ![Profile Views](https://komarev.com/ghpvc/?username=HerizoCarter&color=green)
 
