@@ -45,12 +45,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HerizoCarter&show_icons=true&hide_title=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=HerizoCarter" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fitahiana-herizo-RAKOTOMAMPIONONA&show_icons=true&hide_title=true&count_private=true" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Fitahiana-herizo-RAKOTOMAMPIONONA" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HerizoCarter&layout=compact" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fitahiana-herizo-RAKOTOMAMPIONONA&layout=compact" height="130"/>
 </p>
 
 ---
