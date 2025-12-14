@@ -1,17 +1,11 @@
-<!-- Bannière personnalisée -->
-<p align="center">
-  <img src="./profile.png" alt="Herizo Carter Banner"/>
-</p>
+
 
 # **Herizo FItahiana <br/> <span style="color:blue;font-family:'roboto'"> RAKOTOMAMPIONONA </span>**
 
-🎯 **Développeur Mobile | Web | Backend **  
+🎯 Développeur Mobile | Fullstack web
 💡 Passionné par le **développement web et mobile**, l'**analyse de sécurité d’application ** et les **systèmes distribués**  
-📍 **Basé à Madagascar** | 🎓 **Étudiant en 3ème année à ISPM**
+📍 **Basé à Madagascar** | 🎓 **Étudiant en M1 à ISPM**
 
-📬 Contactez-moi sur [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/fitahiana-herizo-rakotomampionona-586960277/)
-
----
 
 ## 🚀 Technologies & Compétences
 
@@ -28,7 +22,6 @@
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logo=codeigniter&logoColor=white)
 
 ### 🔹 Bases de données & Stockage
 
