@@ -3,7 +3,7 @@
 
 🎯 Développeur **Mobile & Web Fullstack**  
 💡 Mobile, Web, **Architecture logicielle (Clean, MVVM)**, sécurité applicative  
-📍 Madagascar | 🎓 M1 – ISPM
+📍 Madagascar | 🎓 M1 – ISPM  | Ecole 42
 
 ---
 
