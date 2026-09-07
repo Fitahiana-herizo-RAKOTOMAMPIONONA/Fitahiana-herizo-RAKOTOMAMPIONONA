@@ -1,7 +1,7 @@
-# Herizo Fitahiana
+# Herizo Fitahiana R.
 
 <p align="center">
-  <strong>Software Engineer | Web & Mobile | DevOPS</strong>
+  <h2>Software Engineer | Web & Mobile | DevOPS</h2>
 </p>
 
 <p align="center">
