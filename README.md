@@ -41,14 +41,6 @@ Focused on **clean architecture, security, performance and DevSecOps**.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fitahiana-herizo-RAKOTOMAMPIONONA&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000" alt="GitHub Stats" />
-</p>
-
----
-
 ## Elsewhere
 
 <p align="center">
